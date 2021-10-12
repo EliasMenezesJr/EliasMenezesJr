@@ -40,6 +40,6 @@ src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2
   <a href="https://www.instagram.com/elias_menezes_jr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elias-menezes-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EliasMenezesJr/EliasMenezesJr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
