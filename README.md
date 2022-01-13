@@ -54,10 +54,10 @@
     <img height="30" width="110" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
  
-  <div>  
+<!--   <div>  
   <h4 align="center"> Visitantes </h4>
   <img align="center" src="https://profile-counter.glitch.me/EliasMenezesJr/count.svg">
-   </div> 
+   </div>  -->
  </br></br>
 
   ![Snake animation](https://github.com/EliasMenezesJr/EliasMenezesJr/blob/output/github-contribution-grid-snake.svg)
