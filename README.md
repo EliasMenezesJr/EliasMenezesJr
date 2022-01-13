@@ -55,8 +55,8 @@
     </a> 
  
   <div>  
-  <h4 align="left"> Visitantes </h4>
-  <img align="left" src="https://profile-counter.glitch.me/EliasMenezesJr/count.svg">
+  <h4 align="center"> Visitantes </h4>
+  <img align="center" src="https://profile-counter.glitch.me/EliasMenezesJr/count.svg">
    </div> 
  </br></br>
 
