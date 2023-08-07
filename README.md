@@ -1,12 +1,13 @@
 <!-- ## <a href="https://github.com/EliasMenezesJr" style="outline: none;"> Olá! Eu sou o Elias</a>
+ 
+**Hi, I'm Elias!
 
+* * *
 
-<div  >
-  <p>- 🔭 Hoje trabalho com Gestão de Sistema SUAS</p>
-  <p>- 🌱 Estudando front-end e back-end</p>
-</div> 
-
-</br> -->
+**About me:**
+- 💻 I'm web developer since 2020
+- ⚛️ JavaScript | NodeJS | React
+- 📝 I'm a student of Systems Analysis and Development
 
 <div align="center">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasMenezesJr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>    -->
